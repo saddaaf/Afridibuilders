@@ -20,3 +20,34 @@ $navbar-default-bg: #ffcc33;
 .center {
 	text-align: center;
 }
+.jumbotron {
+	background-image: asset-url('india.jpg');
+	background-size: cover;
+	height: 550px;
+}
+.jumbotron h1 {
+	color: #fff;
+	text-align: center;
+	margin-bottom: 30px;
+	letter-spacing: -1px;
+	font-weight: bold;
+}
+.jumbotron p {
+	color: #fff;
+	text-align: center;
+	
+	
+}
+.btn-xlarge {
+	font-size: 1.7em;
+	background-color: #333333;
+}
+
+footer a:hoover {
+	color: #222;
+	
+}
+footer small {
+	float: right;
+	list-style: none;
+}
